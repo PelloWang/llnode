@@ -7,7 +7,7 @@
   "variables": {
       # gyp does not appear to let you test for undefined variables, so define
       # lldb_lib_dir as empty so we can test it later.
-      "lldb_lib_dir%": "",
+      "lldb_lib_dir%":    "",
       "lldb_lib_so%": "",
       "build_addon": "false",
       "coverage": "false",
